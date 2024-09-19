@@ -1,0 +1,23 @@
+.one{
+
+height: 300px;
+width: 200px;
+background-color: blanchedalmond;
+
+}
+.two{
+    height: 300px;
+    width: 200px;
+    background-color: rgb(255, 140, 0);
+
+}
+.third{
+
+    height: 300px;
+width: 200px;
+ background-color: rgb(255, 0, 162);
+}
+.main{
+    display: flex;
+    justify-content: flex-start;
+}

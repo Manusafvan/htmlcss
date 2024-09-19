@@ -1,0 +1,37 @@
+.main{
+    width: 500px; 
+    
+    background-color:rgba(185, 183, 183, 0.432);
+    grid-template-columns: auto auto auto auto;
+    display: grid;
+   margin: auto;
+   gap: 5px;
+}
+.grid-items{
+background-color: aqua;
+    color: black;
+    font-size: 50px;
+     
+    text-align: center;
+}
+.grid-display{
+    background-color: white;
+    color:white;
+    font-size: 50px;
+    border: 10px black solid;
+    
+   
+    text-align: center;
+    grid-column: 1/5;
+
+}
+.grid-items-1{
+    background-color: aqua;
+    color: black;
+    font-size: 50px;
+    
+    text-align: center;
+    grid-column: 1/5;
+
+
+}
