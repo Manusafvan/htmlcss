@@ -1,0 +1,40 @@
+
+.main{
+max-width: 100%;
+height: 1000px;
+background-color: black;
+
+
+
+
+}
+.gallery{
+border: 1px solid;
+margin: 20px;
+
+width: 200px;
+height: 200px;
+
+float: left;
+
+}
+.gallery-image{
+    max-width: 100%;
+    height: auto;
+    
+}
+.gallery:hover{
+
+    border: 5px solid black; 
+}
+.desc{
+    text-align: center;
+    
+
+    width: 200px;
+    height: auto;
+    margin-bottom: 0;
+    
+    
+}
+    
